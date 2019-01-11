@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="12/11/18||23:06:15" using="Simscape Multibody Link Version 5.1" from="SolidWorks 24.1.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assem1" uid="Assem1" version="225">
+<AssemblyFile name="Assem1.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="tekerlek-1" uid="tekerlek-1" entityUid="tekerlek*:*Varsayilan">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>1.4176618084121579 -1.2181431445017337 2.9499999999999993</Translation>
+</Transform>
+</Instance>
+<Instance name="Part3-2" uid="Part3-2" entityUid="Part3*:*Varsayilan">
+<Transform>
+<Rotation>0 0 1 0.75254188449102255 -0.65854438885066879 0 0.65854438885066879 0.75254188449102255 0</Rotation>
+<Translation>0.5966618084121571 0.87879139962388608 3.4683790376021575</Translation>
+</Transform>
+</Instance>
+<Instance name="Part3-1" uid="Part3-1" entityUid="Part3*:*Varsayilan">
+<Transform>
+<Rotation>-1.0030848902632559e-16 -1.2882032777385714e-16 1 -0.78901104501771946 0.61437901236943826 0 -0.61437901236943826 -0.78901104501771946 -1.6326809185664073e-16</Rotation>
+<Translation>0.59666180841215832 1.0818568554982662 1.6999999999999995</Translation>
+</Transform>
+</Instance>
+<Instance name="Part4-1" uid="Part4-1" entityUid="Part4*:*Varsayilan&lt;Makinelenmis Olarak&gt;">
+<Transform>
+<Rotation>1 0 0 0 0.99999785195931934 0.0020726979392519376 0 -0.0020726979392519376 0.99999785195931934</Rotation>
+<Translation>0.46359680841215722 0.23018800928003769 3.2406579073584636</Translation>
+</Transform>
+</Instance>
+<Instance name="Part1-1" uid="Part1-1" grounded="true" entityUid="Part1*:*Varsayilan">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.69266180841215785 -1.2310953749665343 3.1999999999999993</Translation>
+</Transform>
+</Instance>
+<Instance name="Part2-1" uid="Part2-1" entityUid="Part2*:*Varsayilan">
+<Transform>
+<Rotation>1 0 -1.1459919359059616e-16 0 0.99347136943935188 -0.11408171678362457 1.1304014102620369e-16 0.11408171678362457 0.99347136943935188</Rotation>
+<Translation>0.63266180841215713 0.81233821444952969 3.521142416761196</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek-5" uid="tekerlek-5" entityUid="tekerlek*:*Varsayilan">
+<Transform>
+<Rotation>0 -1.0203644476962978e-16 0.99999999999999989 0.8331608326171146 -0.55303076496046433 0 0.55303076496046433 0.8331608326171146 1.2246573187832253e-16</Rotation>
+<Translation>1.3976618084121579 -1.2181431445017337 2.0500000000000003</Translation>
+</Transform>
+</Instance>
+<Instance name="piston_dis-2" uid="piston_dis-2" entityUid="piston_dis*:*Varsayilan">
+<Transform>
+<Rotation>0 0 1 0.73375427133126703 -0.67941494633480182 0 0.67941494633480182 0.73375427133126703 0</Rotation>
+<Translation>0.61066180841215578 0.096966316248477097 1.8128147704100062</Translation>
+</Transform>
+</Instance>
+<Instance name="boom_pin_piston-2" uid="boom_pin_piston-2" entityUid="boom_pin_piston*:*Varsayilan">
+<Transform>
+<Rotation>0 -3.4812297920291047e-16 1 -3.4812297920291037e-16 1 3.4812297920291037e-16 -1 -3.4812297920291047e-16 0</Rotation>
+<Translation>0.63266180841215802 0.77169513997880435 2.5602323582765756</Translation>
+</Transform>
+</Instance>
+<Instance name="piston_ic-2" uid="piston_ic-2" entityUid="piston_ic*:*Varsayilan">
+<Transform>
+<Rotation>0 0 1 -0.73375427133126636 0.67941494633480237 0 -0.67941494633480237 -0.73375427133126636 0</Rotation>
+<Translation>0.63866180841215536 0.77658567922831301 2.6874175878665452</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek_pini-1" uid="tekerlek_pini-1" entityUid="tekerlek_pini*:*Varsayilan">
+<Transform>
+<Rotation>0 0 1 0 1 0 -1 0 0</Rotation>
+<Translation>-0.25233819158784221 -1.2181431445017337 2.0499999999999994</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek_pini-3" uid="tekerlek_pini-3" entityUid="tekerlek_pini*:*Varsayilan">
+<Transform>
+<Rotation>0 0 1 0 1 0 -1 0 0</Rotation>
+<Translation>1.3976618084121579 -1.2181431445017337 2.9499999999999993</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek-3" uid="tekerlek-3" entityUid="tekerlek*:*Varsayilan">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>-0.012338191587842013 -1.2181431445017337 2.0499999999999994</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek-4" uid="tekerlek-4" entityUid="tekerlek*:*Varsayilan">
+<Transform>
+<Rotation>0 0 -0.99999999999999989 0.50292329510048761 0.86433104725288445 0 0.86433104725288445 -0.50292329510048761 0</Rotation>
+<Translation>-0.23233819158784219 -1.2181431445017337 2.9499999999999984</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek_pini-2" uid="tekerlek_pini-2" entityUid="tekerlek_pini*:*Varsayilan">
+<Transform>
+<Rotation>0 0 1 0 1 0 -1 0 0</Rotation>
+<Translation>-0.25233819158784221 -1.2181431445017337 2.9499999999999984</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek_pini-4" uid="tekerlek_pini-4" entityUid="tekerlek_pini*:*Varsayilan">
+<Transform>
+<Rotation>0 -1.1097131643082883e-16 -1 -0.90614956498552346 0.42295740432878937 0 0.42295740432878937 0.90614956498552346 -1.2246467991473535e-16</Rotation>
+<Translation>1.6376618084121581 -1.2181431445017337 2.0499999999999994</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek-7" uid="tekerlek-7" entityUid="tekerlek*:*Varsayilan">
+<Transform>
+<Rotation>0 0 -0.99999999999999989 -0.088405967794908072 0.99608452696457728 0 0.99608452696457728 0.088405967794908072 0</Rotation>
+<Translation>-0.012338191587841996 -1.2181431445017337 2.9499999999999988</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek-2" uid="tekerlek-2" entityUid="tekerlek*:*Varsayilan">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>-0.23233819158784219 -1.2181431445017337 2.0499999999999994</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek-6" uid="tekerlek-6" entityUid="tekerlek*:*Varsayilan">
+<Transform>
+<Rotation>0 0 -1 -0.99774751884775437 -0.067081209240369699 0 -0.067081209240369699 0.99774751884775437 0</Rotation>
+<Translation>1.6376618084121579 -1.2181431445017341 2.9499999999999997</Translation>
+</Transform>
+</Instance>
+<Instance name="tekerlek-8" uid="tekerlek-8" entityUid="tekerlek*:*Varsayilan">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>1.6376618084121579 -1.2181431445017337 2.0499999999999994</Translation>
+</Transform>
+</Instance>
+<Instance name="vertical_pin_piston-2" uid="vertical_pin_piston-2" entityUid="vertical_pin_piston*:*Varsayilan">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>0.78266180841215782 0.10185685549826617 1.9399999999999991</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Çakisik1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>-0.089999999999999969 2.3729522304648003 -1.4100000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>-0.030000000000000249 -2.2204460492503131e-16 -1.7300000000000011</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Çakisik2">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.089999999999999969 2.3129522304648003 -1.5000000000000002</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>-0.1080000000000001 0.059999999999999831 -1.840000000000001</Position>
+<Axis>1 0 -1.6326809185664073e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>-0.1080000000000001 0.059999999999999831 -1.840000000000001</Position>
+<Axis>1 0 -1.6326809185664073e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part3-1</Uid>
+</InstancePath>
+<Position>0 0 0.19200000000000017</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>0.15599999999999992 -2.2204460492503131e-16 -1.7300000000000011</Position>
+<Axis>1 0 -1.6326809185664073e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part3-1</Uid>
+</InstancePath>
+<Position>0 0 0.19200000000000017</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>-0.1080000000000001 0.059999999999999831 -0.060000000000000053</Position>
+<Axis>1 0 1.6326809185664088e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part4-1</Uid>
+</InstancePath>
+<Position>0.43806500000000015 0.64813000000000009 0.2290650000000003</Position>
+<Axis>-1 1.2116899402191046e-16 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>0.15000000000000002 0 -0.16999999999999993</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part4-1</Uid>
+</InstancePath>
+<Position>0.31906500000000004 0.70813000000000004 0.2590650000000001</Position>
+<Axis>1 -1.2116899402191046e-16 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>-0.1080000000000001 0.059999999999999831 -0.060000000000000053</Position>
+<Axis>1 0 1.6326809185664088e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part3-2</Uid>
+</InstancePath>
+<Position>0 0 0.19199999999999995</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>-0.036000000000000143 0 -0.16999999999999993</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part3-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.93631370849898476 0.012952230464800651 -1.1499999999999999</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek-2</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>-0.92500000000000004 0.052952230464800687 -1.6000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.93631370849898476 0.012952230464800651 -1.1499999999999999</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek-3</Uid>
+</InstancePath>
+<Position>0 0 0.02</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik15">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>-0.72499999999999998 0.052952230464800687 -1.6000000000000001</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-3</Uid>
+</InstancePath>
+<Position>0 0 0.02</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek_pini-1</Uid>
+</InstancePath>
+<Position>0 0 0.23999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek-2</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik16">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>tekerlek_pini-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-2</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Çakisik17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.93631370849898476 0.012952230464800651 -1.1499999999999999</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>tekerlek-5</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Çakisik19">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.72500000000000009 0.052952230464800687 -1.6000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-5</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.93631370849898476 0.012952230464800651 -1.1499999999999999</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek-8</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik20">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.92500000000000004 0.052952230464800687 -1.6000000000000001</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-8</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli8">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek_pini-4</Uid>
+</InstancePath>
+<Position>0 0 0.23999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek-5</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik21">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek_pini-4</Uid>
+</InstancePath>
+<Position>0 0 0.23999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-5</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.93631370849898476 0.012952230464800651 -0.25</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek-4</Uid>
+</InstancePath>
+<Position>0 0 0.01999999999999999</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik23">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>-0.92500000000000004 0.052952230464800687 -1.6000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.93631370849898476 0.012952230464800651 -0.25</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek-7</Uid>
+</InstancePath>
+<Position>0 0 0.01999999999999999</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik24">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>-0.72499999999999998 0.052952230464800687 -1.6000000000000001</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-7</Uid>
+</InstancePath>
+<Position>0 0 0.01999999999999999</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek-4</Uid>
+</InstancePath>
+<Position>0 0 0.01999999999999999</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek_pini-2</Uid>
+</InstancePath>
+<Position>0 0 0.23999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik25">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-4</Uid>
+</InstancePath>
+<Position>0 0 0.01999999999999999</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek_pini-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.93631370849898476 0.012952230464800651 -0.25</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek-1</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik26">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.72500000000000009 0.052952230464800687 -1.6000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Çakisik27">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.92500000000000004 0.052952230464800687 -1.6000000000000001</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-6</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Çakisik28">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.93631370849898476 0.012952230464800651 -0.25</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>tekerlek-6</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek_pini-3</Uid>
+</InstancePath>
+<Position>0 0 0.23999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>tekerlek-6</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik29">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek-1</Uid>
+</InstancePath>
+<Position>0 0 0.020000000000000018</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>tekerlek_pini-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.19400000000000006 1.3329522304648005 -1.2600000000000002</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>piston_dis-2</Uid>
+</InstancePath>
+<Position>0.09000000000000008 0.090000000000000302 -0.53599999999999992</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik30">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.081999999999999962 1.3329522304648005 -1.2600000000000002</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>piston_dis-2</Uid>
+</InstancePath>
+<Position>0 0 0.16400000000000003</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>0.19400000000000006 1.3329522304648005 -1.2600000000000002</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>vertical_pin_piston-2</Uid>
+</InstancePath>
+<Position>0 0 0.18000000000000005</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik31">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part1-1</Uid>
+</InstancePath>
+<Position>-0.089999999999999969 2.3729522304648003 -1.4100000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>vertical_pin_piston-2</Uid>
+</InstancePath>
+<Position>0 0 0.18000000000000005</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>piston_dis-2</Uid>
+</InstancePath>
+<Position>0.18599999999999972 0.09000000000000008 0.081999999999999962</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>piston_ic-2</Uid>
+</InstancePath>
+<Position>0.72999999999999976 0.089999999999999858 0.054000000000000048</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Es Merkezli18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>-0.061000000000000054 -0.15000000000000013 -0.95000000000000107</Position>
+<Axis>1 3.4694469519536157e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>piston_ic-2</Uid>
+</InstancePath>
+<Position>0.089999999999999858 0.089999999999999858 -0.186</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik32">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>0.11399999999999999 -0.15000000000000013 -0.95000000000000107</Position>
+<Axis>-1 -3.4694469519536157e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>piston_ic-2</Uid>
+</InstancePath>
+<Position>0 0 0.10799999999999998</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Es Merkezli19">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>-0.061000000000000054 -0.15000000000000013 -0.95000000000000107</Position>
+<Axis>1 3.4694469519536157e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>boom_pin_piston-2</Uid>
+</InstancePath>
+<Position>0 0 0.12</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Çakisik33">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Part2-1</Uid>
+</InstancePath>
+<Position>0.12 0 -1.7000000000000008</Position>
+<Axis>1 3.4694469519536157e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>boom_pin_piston-2</Uid>
+</InstancePath>
+<Position>0 0 0.12</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Part1" uid="Part1*:*Varsayilan" version="137">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>255.94824454642264</Mass>
+<CenterOfMass>-8.1241124314669663e-15 0.48924423315071469 -1.2078431568590646</CenterOfMass>
+<Inertia>182.38807035814116 134.35051768846483 210.31035982191662 34.301804066257809 1.4983058502512752e-12 1.2499170460419211e-12</Inertia>
+</MassProperties>
+<GeometryFile name="Part1_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.37058823529411761" g="0.3843137254901961" b="0.3843137254901961" a="1"/>
+<Emissive r="0.11117647058823529" g="0.11529411764705882" b="0.11529411764705882" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part2" uid="Part2*:*Varsayilan" version="173">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>40.193591795102307</Mass>
+<CenterOfMass>0.059999999999999956 0.044196237980821174 -0.95000000000000073</CenterOfMass>
+<Inertia>9.4449784598023463 9.3739077126493964 0.3077089590792137 -2.8119867545584043e-15 7.0776717819853729e-16 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part2_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.37058823529411761" g="0.3843137254901961" b="0.3843137254901961" a="1"/>
+<Emissive r="0.11117647058823529" g="0.11529411764705882" b="0.11529411764705882" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part3" uid="Part3*:*Varsayilan" version="106">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part3.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.16937456968857875</Mass>
+<CenterOfMass>0 0 0.096000000000000016</CenterOfMass>
+<Inertia>0.00052184304921051134 0.00052184304921051134 3.0487422543944191e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Part3_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.37058823529411761" g="0.3843137254901961" b="0.3843137254901961" a="1"/>
+<Emissive r="0.11117647058823529" g="0.11529411764705882" b="0.11529411764705882" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part4" uid="Part4*:*Varsayilan&lt;Makinelenmis Olarak&gt;" version="142">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Part4.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>770.90040816673343</Mass>
+<CenterOfMass>0.22906500000000005 0.23865127865842689 0.22906499999999999</CenterOfMass>
+<Inertia>28.892756910136761 26.298108858575045 28.94287360985517 -7.2964123559308489e-16 0 3.4490847149362584e-15</Inertia>
+</MassProperties>
+<GeometryFile name="Part4_Varsayilan&lt;Makinelenmis Olarak&gt;_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Diffuse r="0.52941176470588236" g="0.5490196078431373" b="0.5490196078431373" a="1"/>
+<Specular r="0.37058823529411761" g="0.3843137254901961" b="0.3843137254901961" a="1"/>
+<Emissive r="0.11117647058823529" g="0.11529411764705882" b="0.11529411764705882" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="boom_pin_piston" uid="boom_pin_piston*:*Varsayilan" version="105">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="boom_pin_piston.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.009424777960769376</Mass>
+<CenterOfMass>0 0 0.059999999999999998</CenterOfMass>
+<Inertia>1.1368638415178062e-05 1.1368638415178062e-05 1.1780972450961716e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="boom_pin_piston_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="piston_dis" uid="piston_dis*:*Varsayilan" version="122">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="piston_dis.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.7325435262673423</Mass>
+<CenterOfMass>0.46649774006757827 0.089999999999999983 0.081999999999999684</CenterOfMass>
+<Inertia>0.048910508894824095 0.23372464354650019 0.23239740604826503 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="piston_dis_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="piston_ic" uid="piston_ic*:*Varsayilan" version="171">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="piston_ic.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>12.371169143016893</Mass>
+<CenterOfMass>0.3299152036994133 0.089999999999999969 0.053999999999999992</CenterOfMass>
+<Inertia>0.089817623581655695 0.21736888842057428 0.2173015966099526 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="piston_ic_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="tekerlek" uid="tekerlek*:*Varsayilan" version="105">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="tekerlek.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.22518936140931631</Mass>
+<CenterOfMass>0 0 0.0099999999999999985</CenterOfMass>
+<Inertia>0.00021107749476099923 0.00021107749476099923 0.00040714236542804398 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="tekerlek_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="tekerlek_pini" uid="tekerlek_pini*:*Varsayilan" version="105">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="tekerlek_pini.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.012063715789784804</Mass>
+<CenterOfMass>0 0 0.12</CenterOfMass>
+<Inertia>5.7954090654126222e-05 5.7954090654126222e-05 9.6509726318278461e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="tekerlek_pini_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="vertical_pin_piston" uid="vertical_pin_piston*:*Varsayilan" version="105">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="vertical_pin_piston.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.014137166941154062</Mass>
+<CenterOfMass>0 0 0.090000000000000011</CenterOfMass>
+<Inertia>3.8258708034498156e-05 3.8258708034498156e-05 1.7671458676442573e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="vertical_pin_piston_Varsayilan_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
